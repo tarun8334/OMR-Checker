@@ -1,11 +1,5 @@
-# Author: @BVK
-# Assignment 3: Question 1 Boiler Plate
 import cv2 as cv
 import numpy as np
-# do not import any other library
-# Note: this is just a boiler plate
-# feel free to make changes in the structure
-# however, input/output should essentially be the same.
 # IMPORTANT: When you use this, save it in the path src/morOMR.py - if you don't
 # your test will fail automatically.
 def min1(im,k):
